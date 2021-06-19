@@ -1,0 +1,88 @@
+QWidget#WindowColor{
+    background-color: orangered;
+}
+
+QWidget#TabWidget{
+    background-color: orangered;
+    padding: 5px;
+    border-radius: 15;
+    border-style: solid;
+    color: yellow
+}
+
+QWidget#TabWidget{
+    background-color: orangered;
+    border-width: 2px;
+    border-color: orange;
+    border-radius: 4px;
+    padding: 10;
+    margin: 5;
+}
+
+QMainWindow#WindowColor{
+    background-color: orangered;
+}
+
+QPushButton:hover {
+    background-color: greenyellow;
+    border-radius: 12;
+    padding: 5px;
+    border-style: solid;
+    color: white; 
+}
+
+QPushButton{
+    background-color: #ec5b27;
+    border-radius: 12;
+    padding: 5px;
+    border-style: solid;
+    border-color: greenyellow;
+    color: greenyellow;
+    border-width: 2px;
+}
+
+QGroupBox{
+    background-color: #175b70;
+    border-radius: 10;
+    padding: 2px;
+    border-width: 3px;
+    border-color: yellow;
+    border-style: solid;
+}
+
+QLineEdit {
+    border-radius: 10px;
+    color: white;
+    background-color: #c92108;
+    padding: 5;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+}
+
+QLabel#TopText{
+    background-color: orangered;
+    color: yellow;
+    padding: 5;
+    margin: 5;
+}
+
+QLabel#QuestionImage{
+    background-color: orangered;
+    color: yellow;
+    padding: 5;
+    margin: 5;
+    border-color: orange;
+    border-style: solid;
+    border-width: 5px;
+}
+
+QListWidget#SubjectList{
+    background-color: orangered;
+    border-style: solid;
+    border-width: 2px;
+    border-color: yellow;
+    border-radius: 5px;
+}
+
+

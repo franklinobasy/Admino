@@ -1,0 +1,10 @@
+WINDOW_WIDTH =1100
+WINDOW_HEIGHT = 600
+
+GROUPBOX_HEIGHT = 300
+GROUPBOX_WIDTH = 400
+QLINEDIT_WIDTH,QLINEDIT_HEIGHT = (200, 50)
+
+#fonts
+B_FONT= 'Ariel'    #button fonts
+L_FONT= 'Cambria'  #Label fonts

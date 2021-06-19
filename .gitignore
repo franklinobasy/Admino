@@ -1,0 +1,6 @@
+CBT/__pycache__
+.vscode/
+.pytest_cache
+test.py
+memo.txt
+Admin/__pycache__
